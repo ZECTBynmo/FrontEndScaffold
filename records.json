@@ -1,0 +1,65 @@
+{
+  "nextFreeModuleId": 13,
+  "modules": {
+    "byIdentifier": {
+      "/Users/mvegeto/Projects/scaffold/components/components-backbone component": 1,
+      "/Users/mvegeto/Projects/scaffold/components/components-jquery component": 2,
+      "/Users/mvegeto/Projects/scaffold/node_modules/jade-loader/index.js?self!/Users/mvegeto/Projects/scaffold/public/html/index.jade": 3,
+      "/Users/mvegeto/Projects/scaffold/node_modules/jade/lib/runtime.js": 4,
+      "/Users/mvegeto/Projects/scaffold/components/components-backbone/backbone.js": 5,
+      "/Users/mvegeto/Projects/scaffold/components/components-jquery/jquery.js": 6,
+      "/Users/mvegeto/Projects/scaffold/components/components-underscore component": 7,
+      "/Users/mvegeto/Projects/scaffold/components/components-underscore/underscore.js": 8,
+      "/Users/mvegeto/Projects/scaffold/node_modules/jade-loader/index.js?self!/Users/mvegeto/Projects/scaffold/public/html/header.jade": 9,
+      "/Users/mvegeto/Projects/scaffold/node_modules/jshint-loader/index.js!/Users/mvegeto/Projects/scaffold/public/router.js": 10,
+      "/Users/mvegeto/Projects/scaffold/node_modules/jshint-loader/index.js!/Users/mvegeto/Projects/scaffold/public/views/index.js": 11,
+      "/Users/mvegeto/Projects/scaffold/node_modules/webpack/node_modules/node-libs-browser/mock/empty.js": 12,
+      "/Users/mvegeto/Projects/scaffold/node_modules/jshint-loader/index.js!/Users/mvegeto/Projects/scaffold/public/app.js": 0
+    }
+  },
+  "nextFreeChunkId": 1,
+  "chunks": {
+    "byName": {
+      "main": 0
+    },
+    "byBlocks": {}
+  },
+  "prepreHash": "x",
+  "preHash": "36b35baeb477b3ebe9bd",
+  "hash": "aae449032f16587efcf0",
+  "moduleHashs": {
+    "/Users/mvegeto/Projects/scaffold/node_modules/jshint-loader/index.js!/Users/mvegeto/Projects/scaffold/public/app.js": "f8fbe5dd6224920deeecd804722a6469",
+    "/Users/mvegeto/Projects/scaffold/components/components-backbone component": "ae1b6951b0c86d8d7b616838f958318a",
+    "/Users/mvegeto/Projects/scaffold/components/components-jquery component": "7cfa74880cbe3bc000a137b5955a647d",
+    "/Users/mvegeto/Projects/scaffold/node_modules/jade-loader/index.js?self!/Users/mvegeto/Projects/scaffold/public/html/index.jade": "e246e8b355c1f0fd8ad016b7cb063efd",
+    "/Users/mvegeto/Projects/scaffold/node_modules/jade/lib/runtime.js": "4fc1511d3550c72f2ca863f89fdab124",
+    "/Users/mvegeto/Projects/scaffold/components/components-backbone/backbone.js": "a2d08fd30f7b029ac1f6703f8d930005",
+    "/Users/mvegeto/Projects/scaffold/components/components-jquery/jquery.js": "93568ad03972e025e1226a1879e7e89f",
+    "/Users/mvegeto/Projects/scaffold/components/components-underscore component": "b6916d9ccecc9087451d32052670f3ff",
+    "/Users/mvegeto/Projects/scaffold/components/components-underscore/underscore.js": "4a7ba0877e051a04200af7359b733f12",
+    "/Users/mvegeto/Projects/scaffold/node_modules/jade-loader/index.js?self!/Users/mvegeto/Projects/scaffold/public/html/header.jade": "42c0439a8d6fa056e8ac64155b8b81b3",
+    "/Users/mvegeto/Projects/scaffold/node_modules/jshint-loader/index.js!/Users/mvegeto/Projects/scaffold/public/router.js": "5382aad22e677b72e0d68e45af49ec41",
+    "/Users/mvegeto/Projects/scaffold/node_modules/jshint-loader/index.js!/Users/mvegeto/Projects/scaffold/public/views/index.js": "df02cf31ca8d17a5ce7bac87fdd2d7bf",
+    "/Users/mvegeto/Projects/scaffold/node_modules/webpack/node_modules/node-libs-browser/mock/empty.js": "1da209c3fa3230bada88fc8576f26788"
+  },
+  "chunkHashs": {
+    "0": "0eaa72cb65169be146511a525e5bc72a"
+  },
+  "chunkModuleIds": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}
