@@ -2,7 +2,7 @@
     "name": "FrontEndScaffold",
     "version": "0.0.0",
     "dependencies": {
-        "components/jquery": "2.1.1",
+        "components/jquery": "2.0.0",
         "components/backbone": "*",
         "components/bootstrap-default": "*"
     },
