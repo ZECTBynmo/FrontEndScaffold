@@ -1,4 +1,4 @@
-require("!style!css!less!../../styles/index.less");
+require("../../styles/index.less");
 
 var HeaderView = require("./header.js").view;
 

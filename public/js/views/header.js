@@ -1,4 +1,4 @@
-require("!style!css!less!../../styles/header.less");
+require("../../styles/header.less");
 
 var HeaderView = Backbone.View.extend({
     template: require("../../html/header.jade"),

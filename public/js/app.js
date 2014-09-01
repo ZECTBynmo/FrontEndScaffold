@@ -1,4 +1,4 @@
-require("!style!css!sass!../styles/index.less");
+require("../styles/index.less");
 
 window.Backbone = require('backbone');
 window.$ = require('jquery');
