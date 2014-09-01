@@ -1,0 +1,26 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/opt/boxen/nodenv/versions/v0.10.1/bin/npm', 'start' ]
+2 info using npm@1.4.15
+3 info using node@v0.11.13
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info prestart FrontEndScaffold@0.0.0
+6 info start FrontEndScaffold@0.0.0
+7 verbose unsafe-perm in lifecycle true
+8 info FrontEndScaffold@0.0.0 Failed to exec start script
+9 error FrontEndScaffold@0.0.0 start: `component install && webpack-dev-server -d --colors`
+9 error Exit status 134
+10 error Failed at the FrontEndScaffold@0.0.0 start script.
+10 error This is most likely a problem with the FrontEndScaffold package,
+10 error not with npm itself.
+10 error Tell the author that this fails on your system:
+10 error     component install && webpack-dev-server -d --colors
+10 error You can get their info via:
+10 error     npm owner ls FrontEndScaffold
+10 error There is likely additional logging output above.
+11 error System Darwin 13.1.0
+12 error command "node" "/opt/boxen/nodenv/versions/v0.10.1/bin/npm" "start"
+13 error cwd /Users/mvegeto/Projects/scaffold
+14 error node -v v0.11.13
+15 error npm -v 1.4.15
+16 error code ELIFECYCLE
+17 verbose exit [ 1, true ]

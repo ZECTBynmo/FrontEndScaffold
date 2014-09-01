@@ -4,7 +4,7 @@ var ComponentPlugin = require("component-webpack-plugin"),
 
 module.exports = {
     context: __dirname,
-    entry: "./public/app.js",
+    entry: "./public/js/app.js",
     output: {
         path: path.join(__dirname, "assets"),
         publicPath: "assets/", // relative path for github pages
@@ -20,6 +20,7 @@ module.exports = {
             { test: /\.coffee$/, loader: "coffee-loader" },
             { test: /\.css$/,    loader: "style-loader!css-loader" },
             { test: /\.less$/,   loader: "style-loader!css-loader!less-loader" },
+            { test: /\.sass$/,   loader: "style-loader!css-loader!sass-loader" },
             { test: /\.jade$/,   loader: "jade-loader?self" },
             { test: /\.png$/,    loader: "url-loader?prefix=img/&limit=5000" },
             { test: /\.jpg$/,    loader: "url-loader?prefix=img/&limit=5000" },

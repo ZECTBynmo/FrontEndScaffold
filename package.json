@@ -11,6 +11,7 @@
     "jade-loader": "0.6.x",
     "jshint-loader": "0.6.x",
     "json-loader": "0.5.x",
+    "sass-loader": "0.2.x",
     "less-loader": "0.7.x",
     "raw-loader": "0.5.x",
     "style-loader": "0.6.x",
