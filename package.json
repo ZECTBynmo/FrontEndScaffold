@@ -2,6 +2,7 @@
   "name": "FrontEndScaffold",
   "version": "0.0.0",
   "dependencies": {
+    "component": "^0.19.9",
     "bootstrap": "https://github.com/twbs/bootstrap/archive/v3.0.2.tar.gz",
     "bundle-loader": "0.5.x",
     "component-webpack-plugin": "^0.2.1",
