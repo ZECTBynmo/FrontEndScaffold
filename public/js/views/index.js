@@ -1,3 +1,5 @@
+require("!style!css!less!../../styles/index.less");
+
 var HeaderView = require("./header.js").view;
 
 var IndexView = Backbone.View.extend({
