@@ -2,3 +2,4 @@ node_modules/
 components/
 assets/
 npm-debug.log
+records.json
